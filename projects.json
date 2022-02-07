@@ -6,5 +6,12 @@
 	    "year": "2021_WS",
 	    "info": "test",
 	    "status": 0
+    },
+	{  
+        "title": "ErdöpfeClicker",
+        "folder": "PotatoClickerWebGl",
+        "author": "SturmTim",
+        "year": "2021_WS"
+        "status": 1
     }
 ]
