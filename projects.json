@@ -1,45 +1,44 @@
-[   
-    {  
+[{
         "title": "Pew Pew",
         "folder": "Pew Pew",
         "author": "Fabian Schönberger",
         "year": "2021_WS",
-		"info": "",
+        "info": "",
         "status": "1"
     },
-    {  
+    {
         "title": "Potato Clicker",
         "folder": "PotatoClicker",
         "author": "SturmTim",
         "year": "2021_WS",
-		"info": "",
+        "info": "",
         "status": "1"
     },
     {
-	"title": "Pacman",
+        "title": "Pacman",
         "folder": "Pacman",
         "author": "Franz Einböck",
         "year": "2021_WS",
-		"info": "",
+        "info": "",
         "status": "1"
     },
-    {  
+    {
         "title": "Tetris",
         "folder": "Tetris",
         "author": "Franz Einböck",
         "year": "2021_WS",
-		"info": "",
+        "info": "",
         "status": "1"
     },
-	{  
+    {
         "title": "2D Racer",
         "folder": "RacerBuild",
         "author": "Klaus Scheiböck",
         "year": "2021_WS",
-		"info": "",
+        "info": "",
         "status": "1"
-    }
-	{  
+    },
+    {
         "title": "Doom FPS",
         "folder": "Doom Fps",
         "author": "David Baumann",
@@ -47,5 +46,12 @@
         "info": "",
         "status": "0"
     },
-
+    {
+        "title": "TheLastJanitor",
+        "folder": "TheLastJanitor",
+        "author": "Janik Neißl",
+        "year": "2021_WS",
+        "info": "",
+        "status": "1"
+    },
 ]
