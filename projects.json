@@ -248,4 +248,12 @@
 		"info": "",
         "status": 1
     },
+{  
+        "title": "Count Master",
+        "folder": "CountMaster",
+        "author": "Jonas Kellermayr",
+        "year": "2021_WS",
+		"info": "",
+        "status": -1
+    }
 ]
