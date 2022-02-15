@@ -190,6 +190,16 @@
 		"year": "2021_WS",
 		"info": "",
 		"status": 1
-	}
-    
+	},
+	
+	
+   	 {
+		"title": "Hitman 2D",
+		"folder": "Hitman2D",
+		"author": "Julian Thanner",
+		"year": "2021_WS",
+		"info": "",
+		"status": 1
+	 }
+	
 ]
