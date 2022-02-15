@@ -240,4 +240,12 @@
 		"info": "",
         "status": 1
     },
+{  
+        "title": "Pacman",
+        "folder": "PacmanWebGL",
+        "author": "Alexander Lindner",
+        "year": "2021_WS",
+		"info": "",
+        "status": 1
+    },
 ]
