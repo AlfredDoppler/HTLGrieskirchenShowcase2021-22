@@ -16,6 +16,14 @@
         "status": "1"
     },
 	{"title": "Impfpass Please", "folder": "ImpfpassPlease", "author": "Fabian Gurtner", "year": "2021_WS", "info": "", "status": "0"},
+	    {  
+        "title": "StrategyGame",
+        "folder": "StrategyGame",
+        "author": "Sandro Greinecker",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    },
     {
 	"title": "Pacman",
         "folder": "Pacman",
