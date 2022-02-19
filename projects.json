@@ -4,7 +4,7 @@
         "folder": "Pew Pew",
         "author": "Fabian Schönberger",
         "year": "2021_WS",
-		"info": "",
+	"info": "",
         "status": 1
     },
     {  
@@ -12,24 +12,31 @@
         "folder": "PotatoClicker",
         "author": "SturmTim",
         "year": "2021_WS",
-		"info": "",
+	"info": "",
         "status": 1
     },
-	{"title": "Impfpass Please", "folder": "ImpfpassPlease", "author": "Fabian Gurtner", "year": "2021_WS", "info": "", "status": 0},
+    {
+	"title": "Impfpass Please", 
+	"folder": "ImpfpassPlease", 
+	"author": "Fabian Gurtner", 
+	"year": "2021_WS", 
+	"info": "", 
+	"status": 0
+    },
     {
 	"title": "Pacman",
         "folder": "Pacman",
         "author": "Franz Einböck",
         "year": "2021_WS",
-		"info": "",
+	"info": "",
         "status": 1
     },
-{
+    {
 	"title": "StrategyGame",
         "folder": "StrategyGame",
         "author": "Sandro Greinecker",
         "year": "2021_WS",
-		"info": "",
+	"info": "",
         "status": 1
     },
     {  
@@ -37,18 +44,18 @@
         "folder": "Tetris",
         "author": "Franz Einböck",
         "year": "2021_WS",
-		"info": "",
+	"info": "",
         "status": 1
     },
-	{  
+    {  
         "title": "2D Racer",
         "folder": "RacerBuild",
         "author": "Klaus Scheiböck",
         "year": "2021_WS",
-		"info": "",
+	"info": "",
         "status": 1
     },
-	{  
+    {  
         "title": "Doom FPS",
         "folder": "Doom Fps",
         "author": "David Baumann",
@@ -61,7 +68,7 @@
         "folder": "Tales of Silverkeep",
         "author": "Andreas Aigner",
         "year": "2021_WS",
-		"info": "",
+	"info": "",
         "status": 1
     },
     {  
@@ -77,27 +84,24 @@
         "folder": "2DJumpAndRun",
         "author": "Florian Nadler",
         "year": "2021_WS",
-		"info": "",
-        "status": "1"
+	"info": "",
+        "status": 1
     },
-
     {  
         "title": "CollectorGame",
         "folder": "CollectorGame",
         "author": "Fabian Fischer",
         "year": "2021_WS",
-		"info": "",
-        "status": "1"
+	"info": "",
+        "status": 1
     },
-
-
     {  
         "title": "Alquest",
         "folder": "Alquest",
         "author": "Michael Ungar",
         "year": "2021_WS",
-		"info": "",
-        "status": "1"
+	"info": "",
+        "status": 1
     },
     {
         "title": "4B Jump'n'Rune",
@@ -115,33 +119,30 @@
 	"info": "",
 	"status": 1
     },
-
-	{
-		"title": "ChargeIt",
-		"folder": "ChargeIt",
-		"author": "Valentin Greiner",
-		"year": "2021_WS",
-		"info": "",
-		"status": 1
-	},
-	
-	{
-		"title": "Bomber2D",
-		"folder": "Bomber2D",
-		"author": "Martin Strasser",
-		"year": "2021_WS",
-		"info": "",
-		"status": 1
-	},
-  {
+    {
+	"title": "ChargeIt",
+	"folder": "ChargeIt",
+	"author": "Valentin Greiner",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    },
+    {
+ 	"title": "Bomber2D",
+	"folder": "Bomber2D",
+	"author": "Martin Strasser",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+   },
+   {
 	"title": "Racing Game",
 	"folder": "RacingGame",
 	"author": "Samuel Gierlinger",
 	"year": "2021_WS",
-		"info": "",
-	"status": "1"
-	},
-
+	"info": "",
+	"status": 1
+  },
   {
 	"title": "JumpNRun",
 	"folder": "JumpnRunGame",
@@ -150,15 +151,15 @@
 	"info": "",
 	"status": 1
     },
-		{  
+    {  
         "title": "LisAbklatsch",
         "folder": "LisAbklatsch",
         "author": "Simon Mair",
         "year": "2021_WS",
-		"info": "Zach",
+	"info": "Zach",
         "status": 1
     },
-  {
+    {
 	"title": "SliderGame",
 	"folder": "SliderGame 2.2.0.123",
 	"author": "Andrei Maria",
@@ -166,8 +167,7 @@
 	"info": "",
 	"status": 1
     },
-
-{
+    {
 	"title": "JumpAndRun",
 	"folder": "JumpAndRun",
 	"author": "Maximilian Kast",
@@ -175,45 +175,44 @@
 	"info": "",
 	"status": 1
     },
-  {
+    {
 	"title": "Udemy Dungeon"
 	"folder": "Emilio_Jamain_Bauchinger_Game",
 	"author": "Emilio Bauchinger",
 	"year": "2021_WS",
-		"info": "", 
-	"status": "1"
-	},
-  {
-		"title": "World War",
-		"folder": "WorldWar",
-		"author": "Erik Neulinger",
-		"year": "2021_WS",
-		"info": "",
-		"status": 1
-  },
-	{
-		"title": "DinoGame",
-		"folder": "Game_PanicLeonhard",
-		"author": "Leonhard Panic",
-		"year": "2021_WS",
-		"info": "",
-		"status": 1
-	},
-{  
+	"info": "", 
+	"status": 1
+    },
+    {
+	"title": "World War",
+	"folder": "WorldWar",
+	"author": "Erik Neulinger",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    },
+    {
+	"title": "DinoGame",
+	"folder": "Game_PanicLeonhard",
+	"author": "Leonhard Panic",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+   },
+   {  
         "title": "Skiing Game",
         "folder": "WebGl_SkiGame_Lkronlachner",
         "author": "Lucas Kronlachner",
         "year": "2021_WS",
-		"info": "",
-        "status": "1"
-    },
-	
-	{  
+	"info": "",
+        "status": 1
+    },	
+    {  
         "title": "Dino Game",
         "folder": "Dino_Game",
         "author": "Teresa Edinger",
         "year": "2021_WS",
-		"info": "",
+	"info": "",
         "status": 1
     },
     {  
@@ -221,47 +220,47 @@
         "folder": "Tracktor-WM",
         "author": "Stefan Geßl",
         "year": "2021_WS",
-		"info": "",
-        "status": -1
+	"info": "",
+        "status": 1
     },
     {  
         "title": "RecoilJumper",
         "folder": "RecoilJumper",
         "author": "Ben Obermueller",
         "year": "2021_WS",
-		"info": "",
+	"info": "",
         "status": 1
     },
-{  
+    {  
         "title": "Attack on Titan Joyride",
         "folder": "AOTJoyride",
         "author": "Elias Reiter",
         "year": "2021_WS",
-		"info": "",
-        "status": "1"
+	"info": "",
+        "status": 1
     },
-{  
+    {  
         "title": "Jump n' Run With a Gun",
         "folder": "Jump n' Run with a Gun",
         "author": "Schmidbauer Gabriel",
         "year": "2021_WS",
-		"info": "",
+	"info": "",
         "status": 1
     },
-{  
+    {  
         "title": "Pacman",
         "folder": "PacmanWebGL",
         "author": "Alexander Lindner",
         "year": "2021_WS",
-		"info": "",
+	"info": "",
         "status": 1
     },
-{  
+    {  
         "title": "Count Master",
         "folder": "CountMaster",
         "author": "Jonas Kellermayr",
         "year": "2021_WS",
-		"info": "",
+	"info": "",
         "status": -1
     }
 ]
