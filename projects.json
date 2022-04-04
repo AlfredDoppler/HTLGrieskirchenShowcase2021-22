@@ -1,5 +1,5 @@
-[   
-    {  
+[
+    {
         "title": "Pew Pew",
         "folder": "Pew Pew",
         "author": "Fabian Schönberger",
@@ -7,7 +7,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "Potato Clicker",
         "folder": "PotatoClicker",
         "author": "SturmTim",
@@ -16,11 +16,11 @@
         "status": 1
     },
     {
-	"title": "Impfpass Please", 
-	"folder": "ImpfpassPlease", 
-	"author": "Fabian Gurtner", 
-	"year": "2021_WS", 
-	"info": "", 
+	"title": "Impfpass Please",
+	"folder": "ImpfpassPlease",
+	"author": "Fabian Gurtner",
+	"year": "2021_WS",
+	"info": "",
 	"status": 0
     },
     {
@@ -39,7 +39,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "Tetris",
         "folder": "Tetris",
         "author": "Franz Einböck",
@@ -47,7 +47,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "2D Racer",
         "folder": "RacerBuild",
         "author": "Klaus Scheiböck",
@@ -55,7 +55,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "Doom FPS",
         "folder": "Doom Fps",
         "author": "David Baumann",
@@ -63,7 +63,7 @@
         "info": "",
         "status": 0
     },
-    {  
+    {
         "title": "Tales of Silverkeep",
         "folder": "Tales of Silverkeep",
         "author": "Andreas Aigner",
@@ -71,7 +71,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "Jump n Run",
         "folder": "JumpNRun",
         "author": "Tamara Wimmer",
@@ -79,7 +79,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "SchmandyRun",
         "folder": "2DJumpAndRun",
         "author": "Florian Nadler",
@@ -87,7 +87,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "CollectorGame",
         "folder": "CollectorGame",
         "author": "Fabian Fischer",
@@ -95,7 +95,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "Alquest",
         "folder": "Alquest",
         "author": "Michael Ungar",
@@ -151,7 +151,7 @@
 	"info": "",
 	"status": 1
     },
-    {  
+    {
         "title": "LisAbklatsch",
         "folder": "LisAbklatsch",
         "author": "Simon Mair",
@@ -180,7 +180,7 @@
 	"folder": "Emilio_Jamain_Bauchinger_Game",
 	"author": "Emilio Bauchinger",
 	"year": "2021_WS",
-	"info": "", 
+	"info": "",
 	"status": 1
     },
     {
@@ -199,15 +199,15 @@
 	"info": "",
 	"status": 1
    },
-   {  
+   {
         "title": "Skiing Game",
         "folder": "WebGl_SkiGame_Lkronlachner",
         "author": "Lucas Kronlachner",
         "year": "2021_WS",
 	"info": "",
         "status": 1
-    },	
-    {  
+    },
+    {
         "title": "Dino Game",
         "folder": "Dino_Game",
         "author": "Teresa Edinger",
@@ -215,7 +215,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "Traktor-WM",
         "folder": "Tracktor-WM",
         "author": "Stefan Geßl",
@@ -223,7 +223,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "RecoilJumper",
         "folder": "RecoilJumper",
         "author": "Ben Obermueller",
@@ -231,7 +231,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "Attack on Titan Joyride",
         "folder": "AOTJoyride",
         "author": "Elias Reiter",
@@ -239,7 +239,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "Jump n' Run With a Gun",
         "folder": "Jump n' Run with a Gun",
         "author": "Schmidbauer Gabriel",
@@ -247,7 +247,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "Pacman",
         "folder": "PacmanWebGL",
         "author": "Alexander Lindner",
@@ -255,7 +255,7 @@
 	"info": "",
         "status": 1
     },
-    {  
+    {
         "title": "Count Master",
         "folder": "CountMaster",
         "author": "Jonas Kellermayr",
@@ -263,12 +263,20 @@
 	"info": "",
         "status": -1
     },
-    {  
+    {
         "title": "Hitman 2D",
         "folder": "Hitman2D",
         "author": "Julian Thanner",
         "year": "2021_WS",
 	"info": "",
         "status": 1
+    },
+    {
+      "title": "Schulwart-Simulator",
+      "folder": "Schulwart-Simulator",
+      "author": "Jakob Jodlbauer",
+      "year": "2022_SS",
+      "info": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "status": 0
     }
 ]
