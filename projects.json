@@ -272,11 +272,140 @@
         "status": 1
     },
     {
+        "title": "3DGamePanicWebGL",
+        "folder": "3DGamePanicWebGL",
+        "author": "Panic",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "AngryBirds-Clone",
+        "folder": "AngryBirds-Clone",
+        "author": "Einboeck",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "BeamerSimulator",
+        "folder": "BeamerSimulator",
+        "author": "?",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "CarPoliceGame"
+        "folder": "CarPoliceGame",
+        "author": "Fischer",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": DarkHallway"",
+        "folder": "DarkHallway",
+        "author": "",
+        "year": "2022_SS",
+	"info": "Schmidbauer",
+        "status": 1
+    },
+    {
+        "title": "FPS-Demo",
+        "folder": "FpsDemo - WebGL",
+        "author": "?",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "Metroidvania",
+        "folder": "Metroidvania",
+        "author": "",
+        "year": "2022_SS",
+	"info": "?",
+        "status": 1
+    },
+    {
+        "title": "MurderMystery",
+        "folder": "MurderMystery",
+        "author": "",
+        "year": "2022_SS",
+	"info": "Feichtlbauer",
+        "status": 1
+    },
+    {
+        "title": "PrinceOfSus",
+        "folder": "PrinceOfSus",
+        "author": "",
+        "year": "2022_SS",
+	"info": "?",
+        "status": 1
+    },
+    {
+        "title": "Runner",
+        "folder": "Runner",
+        "author": "?",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "Schulwart-Simulator",
+        "folder": "Schulwart-Simulator",
+        "author": "?",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "StreetRace",
+        "folder": "StreetRace",
+        "author": "?",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "TreasureHunt_WebGL",
+        "folder": "TreasureHunt_WebGL",
+        "author": "?",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "wbyt-corner",
+        "folder": "wbyt-corner",
+        "author": "Ungar",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "Wbytjump",
+        "folder": "Wbytjump",
+        "author": "Greinecker",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "WheelBike",
+        "folder": "WheelBike",
+        "author": "Strasser",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+
+    {
       "title": "Schulwart-Simulator",
       "folder": "Schulwart-Simulator",
       "author": "Jakob Jodlbauer",
       "year": "2022_SS",
-      "info": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "info": "",
       "status": 0
     }
 ]
