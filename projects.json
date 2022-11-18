@@ -1,7 +1,7 @@
 [
     {
         "title": "Pew Pew",
-        "folder": "Pew Pew",
+        "folder": "Pew_Pew",
         "author": "Fabian Schönberger",
         "year": "2021_WS",
 	"info": "",
@@ -57,7 +57,7 @@
     },
     {
         "title": "Doom FPS",
-        "folder": "Doom Fps",
+        "folder": "Doom_Fps",
         "author": "David Baumann",
         "year": "2021_WS",
         "info": "",
@@ -65,7 +65,7 @@
     },
     {
         "title": "Tales of Silverkeep",
-        "folder": "Tales of Silverkeep",
+        "folder": "Tales_of_Silverkeep",
         "author": "Andreas Aigner",
         "year": "2021_WS",
 	"info": "",
@@ -161,7 +161,7 @@
     },
     {
 	"title": "SliderGame",
-	"folder": "SliderGame 2.2.0.123",
+	"folder": "SliderGame_2.2.0.123",
 	"author": "Andrei Maria",
 	"year": "2021_WS",
 	"info": "",
@@ -241,7 +241,7 @@
     },
     {
         "title": "Jump n' Run With a Gun",
-        "folder": "Jump n' Run with a Gun",
+        "folder": "Jump_n_Run_with_a_Gun",
         "author": "Schmidbauer Gabriel",
         "year": "2021_WS",
 	"info": "",
@@ -313,7 +313,7 @@
     },
     {
         "title": "FPS-Demo",
-        "folder": "FpsDemo - WebGL",
+        "folder": "FpsDemo-WebGL",
         "author": "?",
         "year": "2022_SS",
 	"info": "",
