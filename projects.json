@@ -238,29 +238,5 @@
         "year": "2021_WS",
 	"info": "",
         "status": 1
-    },
-    {
-        "title": "Jump n' Run With a Gun",
-        "folder": "Jump_n_Run_with_a_Gun",
-        "author": "Schmidbauer Gabriel",
-        "year": "2021_WS",
-	"info": "",
-        "status": 1
-    },
-    {
-        "title": "Pacman",
-        "folder": "PacmanWebGL",
-        "author": "Alexander Lindner",
-        "year": "2021_WS",
-	"info": "",
-        "status": 1
-    },
-    {
-        "title": "Count Master",
-        "folder": "CountMaster",
-        "author": "Jonas Kellermayr",
-        "year": "2021_WS",
-	"info": "",
-        "status": -1
     }
 ]
