@@ -206,5 +206,61 @@
         "year": "2021_WS",
 	"info": "",
         "status": 1
+    },
+    {
+        "title": "Jump n' Run With a Gun",
+        "folder": "Jump_n_Run_with_a_Gun",
+        "author": "Schmidbauer Gabriel",
+        "year": "2021_WS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "Pacman",
+        "folder": "PacmanWebGL",
+        "author": "Alexander Lindner",
+        "year": "2021_WS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "Count Master",
+        "folder": "CountMaster",
+        "author": "Jonas Kellermayr",
+        "year": "2021_WS",
+	"info": "",
+        "status": -1
+    },
+    {
+        "title": "Hitman 2D",
+        "folder": "Hitman2D",
+        "author": "Julian Thanner",
+        "year": "2021_WS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "3DGamePanicWebGL",
+        "folder": "3DGamePanicWebGL",
+        "author": "Panic",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "AngryBirds-Clone",
+        "folder": "AngryBirds-Clone",
+        "author": "Einboeck",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "BeamerSimulator",
+        "folder": "BeamerSimulator",
+        "author": "?",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
     }
 ]
