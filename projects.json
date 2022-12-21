@@ -327,37 +327,5 @@
 	"info": "",
         "status": 1
     },
-    {
-        "title": "Wbytjump",
-        "folder": "Wbytjump",
-        "author": "Greinecker",
-        "year": "2022_SS",
-	"info": "",
-        "status": 1
-    },
-    {
-        "title": "WheelBike",
-        "folder": "WheelBike",
-        "author": "Strasser",
-        "year": "2022_SS",
-	"info": "",
-        "status": 1
-    },
-{
-        "title": "Schulwart-Simulator",
-        "folder": "Schulwart-Simulator",
-        "author": "?",
-        "year": "2022_SS",
-	"info": "",
-        "status": 1
-    },
-
-  {
-        "title": "CarPoliceGame"
-        "folder": "CarPoliceGame",
-        "author": "Fischer",
-        "year": "2022_SS",
-	"info": "",
-        "status": 1
-    }
+   
 ]
