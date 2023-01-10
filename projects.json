@@ -134,5 +134,46 @@
 	"year": "2021_WS",
 	"info": "",
 	"status": 1
-   }
+   },
+  {
+	"title": "Racing Game",
+	"folder": "RacingGame",
+	"author": "Samuel Gierlinger",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+  },
+  {
+	"title": "JumpNRun",
+	"folder": "JumpnRunGame",
+	"author": "Matthias Stadlbauer",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    },
+    {
+        "title": "LisAbklatsch",
+        "folder": "LisAbklatsch",
+        "author": "Simon Mair",
+        "year": "2021_WS",
+	"info": "",
+        "status": 1
+    },
+    {
+	"title": "SliderGame",
+	"folder": "SliderGame_2.2.0.123",
+	"author": "Andrei Maria",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    },
+    {
+	"title": "JumpAndRun",
+	"folder": "JumpAndRun",
+	"author": "Maximilian Kast",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    }
+
 ]
