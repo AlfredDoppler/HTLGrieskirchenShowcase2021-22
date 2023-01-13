@@ -270,6 +270,29 @@
         "year": "2021_WS",
 	"info": "",
         "status": 1
+    },
+    {
+        "title": "BeamerSimulator",
+        "folder": "BeamerSimulator",
+        "author": "?",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "Schulwart-Simulator",
+        "folder": "Schulwart-Simulator",
+        "author": "?",
+        "year": "2022_SS",
+	"info": "",
+        "status": 1
+    },
+    {
+        "title": "PrinceOfSus",
+        "folder": "PrinceOfSus",
+        "author": "",
+        "year": "2022_SS",
+	"info": "?",
+        "status": 1
     }
-
 ]
