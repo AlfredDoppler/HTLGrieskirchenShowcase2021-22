@@ -294,46 +294,7 @@
         "year": "2022_SS",
 	"info": "?",
         "status": 1
-    },
-    {
-        "title": "CarPoliceGame"
-        "folder": "CarPoliceGame",
-        "author": "Fischer",
-        "year": "2022_SS",
-	"info": "",
-        "status": 1
-    },
-    {
-	"title": "DarkHallway",
-        "folder": "DarkHallway",
-        "author": "Schmidbauer",
-        "year": "2022_SS",
-	"info": "",
-        "status": 1
-    },
-    {
-        "title": "FPS-Demo",
-        "folder": "FpsDemo-WebGL",
-        "author": "?",
-        "year": "2022_SS",
-	"info": "",
-        "status": 1
-    },
-    {
-        "title": "Metroidvania",
-        "folder": "Metroidvania",
-        "author": "",
-        "year": "2022_SS",
-	"info": "",
-        "status": 1
-    },
-    {
-        "title": "MurderMystery",
-        "folder": "MurderMystery",
-        "author": "",
-        "year": "2022_SS",
-	"info": "Feichtlbauer",
-        "status": 1
     }
+   
 
 ]
