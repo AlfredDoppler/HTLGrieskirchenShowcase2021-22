@@ -292,14 +292,14 @@
     "folder": "Aimtrainer",
     "author": "MaxHar963",
     "year": "2021_WS",
-    "status": -1
+    "status": 1
   },
   {
     "title": "3D Game",
     "folder": "3DGamePanicWebGL",
     "author": "leopanic",
     "year": "2022_SS",
-    "status": -1
+    "status": 1
   },
   {
     "title": "Angry Birds Clone",
@@ -313,7 +313,7 @@
     "folder": "CarPoliceGame",
     "author": "ffischer18",
     "year": "2022_SS",
-    "status": -1
+    "status": 1
   },
   {
     "title": "Dark Hallway",
@@ -327,62 +327,62 @@
     "folder": "FpsDemo-WebGL",
     "author": "unbekannt",
     "year": "2022_SS",
-    "status": -1
+    "status": 1
   },
   {
     "title": "Metroidvania",
     "folder": "Metroidvania",
     "author": "Infendro",
     "year": "2022_SS",
-    "status": -1
+    "status": 1
   },
   {
     "title": "Murder Mystery",
     "folder": "MurderMystery",
     "author": "unbekannt",
     "year": "2022_SS",
-    "status": -1
+    "status": 1
   },
   {
     "title": "Endless Runner",
     "folder": "Runner",
     "author": "readinggirl",
     "year": "2022_SS",
-    "status": -1
+    "status": 1
   },
   {
     "title": "StreetRace",
     "folder": "StreetRace",
     "author": "erikson835",
     "year": "2022_SS",
-    "status": -1
+    "status": 1
   },
   {
     "title": "Treasure Hunt",
     "folder": "TreasureHunt_WebGL",
     "author": "jthann18",
     "year": "2022_SS",
-    "status": -1
+    "status": 1
   },
   {
     "title": "wbyt-corner",
     "folder": "wbyt-corner",
     "author": "ungarmichael",
     "year": "2022_SS",
-    "status": -1
+    "status": 1
   },
   {
     "title": "Doodle Jump",
     "folder": "Wbytjump",
     "author": "Sandro Greinecker",
     "year": "2022_SS",
-    "status": -1
+    "status": 1
   },
   {
     "title": "Wheel Bike",
     "folder": "WheelBike",
     "author": "mstrasser18",
     "year": "2022_SS",
-    "status": -1
+    "status": 1
   }
 ]
